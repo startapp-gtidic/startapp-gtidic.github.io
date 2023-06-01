@@ -1,0 +1,23 @@
+---
+layout: default
+modal-id: 7
+date: 2021-06-01
+img: agamers.png
+alt: image-alt
+project-date: 2on Semester 2020-2021
+name: AGamers
+category: Mobile App
+description: AGamers és una startup dedicada a les interaccions socials dels gamers. L'objectiu prinicipal és construir una comunitat sana de jugadors, on tots s’ajudin entre si, i crear una plataforma on la teva xarxa d’amics pugui créixer. La idea es centra en un sistema de “matching”, on puguis conèixer i afegir altres usuaris al teu cercle, basant-nos en els jocs als que més jugues i/o temàtica. També incorporar un sistema de xat on es puguin crear crews, aparadors virtuals dels venedors de components i software de la zona, i també fòrums on pugueu preguntar i respondre preguntes sobre els videojocs als que esteu jugant.
+pitch: https://www.youtube.com/watch?v=YcxV30X1zKs
+storytelling: https://www.youtube.com/watch?v=wblSa8Q05Mc
+team:
+    - name: David Estebanell
+      role: Programador
+    - name: Oriol Llados
+      role: Creatiu
+    - name: Samantha Roldán
+      role: Creatiu
+    - name: Ramon Trilla
+      role: Lider
+webpage: https://agamers825980105.wordpress.com/
+---

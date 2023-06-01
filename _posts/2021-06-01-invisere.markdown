@@ -1,0 +1,23 @@
+---
+layout: default
+modal-id: 6
+date: 2021-06-01
+img: invisere.png
+alt: image-alt
+project-date: 2on Semester 2020-2021
+name: Urband
+category: Mobile App
+description: Invisere és una startup dedicada a apropar, facilitar, enriquir i gamificar el turisme. El nostre objectiu és incentivar als ciutadans de la zona a descobrir llocs i localitzacions que mai abans s’havien plantejat visitar. Tenim la intenció de canviar la visió del turisme com una activitat avorrida a una activitat per a gaudir del que ens envolta. Així premiant a l’usuari pel seu esforç. És una aplicació dedicada a tota la població, des de joves fins a persones grans. Amb aquesta aplicació volem ajudar a reduir la sedentarietat, donant incentius als usuaris.
+pitch: https://youtu.be/AsG5dSIWYUw
+storytelling: https://www.youtube.com/watch?v=d1zgbJjyu6E
+team:
+    - name: Marti Aguilera
+      role: Programador
+    - name: Mònica Casin
+      role: Creatiu
+    - name: Cristian Oprea
+      role: Creatiu
+    - name: Xavier Vila
+      role: Lider
+webpage: http://invisere.tech/
+---

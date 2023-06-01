@@ -1,10 +1,10 @@
 # Site settings
-title: Freelancer
-email: your-email@domain.com
-url: https://github.com/jeromelachaud/freelancer-theme
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
-keywords: "your keywords, separated by commas"
-skills: "Web Developer - Graphic Artist - User Experience Designer"
+title: StartApp
+email: jordi.mateo@udl.cat
+url: https://github.com/startapp-udl/startapp-udl.github.io
+description: "StartAPP is an inniative to encouraging students to face a real scenario, which aims to consolidate an innovative startup based on an application for mobile devices and develop skills related to organization, communication, and human relations to coordinate the team and learn to sell the ideas."
+keywords: "gtidic, teaching, innovation, udl"
+skills: "Application for Mobile devices, User Expirience, Innovation in ICT, Interactive System Specification and Analysis"
 meta_author: LastName FirstName
 
 # Google webmaster tools
@@ -25,38 +25,50 @@ disqus_shortname: myshortname
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: 18bc9c #80B3FF
-  primary-rgb: "24,288,156" #"128,179,255"
+  primary: 830051 #80B3FF
+  primary-rgb: "131,0,81" #"128,179,255"
   secondary: 2c3e50 #FD6E8A
   secondary-dark: 233140 #A2122F
 
 # Footer settings
 footer:
-  copyright: Dr. Henry Jekyll
+  copyright: University of Lleida
   location: Location
-  social: Around the Web
-  credits: Credits
+  teachers: Teachers
+  collaborators: Collaborators
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
-social:
-  - title: twitter
-    url: http://twitter.com/jekyllrb
-  - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket
-    url: http://bitbucket.org/jekyll
-  - title: github
-    url: http://github.com/jekyll
+
+teachers:
+  - name: Jordi Mateo
+    url: http://www.jordimateo.com
+    social:
+      - title: linkedin
+        url: https://es.linkedin.com/in/jordi-mateo-forn%C3%A9s-84694b58
+      - title: twitter
+        url: https://twitter.com/MatForJordi
+      - title: github
+        url: https://github.com/JordiMateoUdL
+  - name: Sergio Sayago
+    url: https://sergiosayagoblog.wordpress.com/
+    social:
+      - title: linkedin
+        url: https://es.linkedin.com/in/sergio-sayago-b95bb515
+      - title: twitter
+        url: https://twitter.com/sergiosayago
+
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: Campus Universitari Igualada-UdL
 
-# Credits content
-credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+# Collaborators
+collaborators:
+  - name: Universitat de Lleida
+    url: http://www.udl.cat
+  - name: Tic Anoia
+    url: http://www.ticanoia.cat
+
 
 # Build settings
 markdown: kramdown

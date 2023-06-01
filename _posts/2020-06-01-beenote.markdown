@@ -1,0 +1,30 @@
+---
+layout: default
+modal-id: 4
+date: 2020-06-01
+img: beenote.png
+alt: image-alt
+project-date: 2on Semester 2019-2020
+name: Beenote
+category: Mobile App
+description: La aplicación esta enfocada en el ámbito educativo, esta ofrecerá un conjunto de herramientas para permitir a los estudiantes una mayor capacidad de organización para su curso académico. Tendrá la opción del primer mes gratuito y luego un pago anual.
+team:
+    - name: Joan Rialp
+      role: Programador
+    - name: Laura Grau
+      role: Creatiu
+    - name: Ion
+      role: Creatiu
+    - name: Marc Felip
+      role: Lider
+webpage: https://beenote0.wordpress.com/
+screenshots:
+    - img: screenshots/Beenote/1.png
+    - img: screenshots/Beenote/2.png
+    - img: screenshots/Beenote/3.png
+    - img: screenshots/Beenote/4.png
+    - img: screenshots/Beenote/5.png
+    - img: screenshots/Beenote/6.png
+    - img: screenshots/Beenote/7.png
+    - img: screenshots/Beenote/8.png
+---

@@ -1,0 +1,42 @@
+---
+layout: default
+modal-id: 2
+date: 2020-06-01
+img: urband.png
+alt: image-alt
+project-date: 2on Semester 2019-2020
+name: Urband
+category: Mobile App
+description: ¿No encuentras músicos cerca de ti? Podemos ayudarte, con Urband, dejanos todo el trabajo pesado a nosotros y relájate. No tardaras en estar dando la nota!
+pitch: https://youtu.be/VIhnSO5YPLQ
+team:
+    - name: Oriol Vivó
+      role: Programador
+    - name: Èlia Isart
+      role: Creatiu
+    - name: Ivan Mendez
+      role: Programador
+    - name: Antoni Carol
+      role: Lider
+webpage: https://urband239989224.wordpress.com/
+screenshots:
+    - img: screenshots/Urband/1.png
+    - img: screenshots/Urband/2.png
+    - img: screenshots/Urband/3.png
+    - img: screenshots/Urband/4.png
+    - img: screenshots/Urband/5.png
+    - img: screenshots/Urband/6.png
+    - img: screenshots/Urband/7.png
+    - img: screenshots/Urband/8.png
+    - img: screenshots/Urband/9.png
+    - img: screenshots/Urband/10.png
+    - img: screenshots/Urband/11.png
+    - img: screenshots/Urband/12.png
+    - img: screenshots/Urband/13.png
+    - img: screenshots/Urband/14.png
+    - img: screenshots/Urband/15.png
+    - img: screenshots/Urband/16.png
+    - img: screenshots/Urband/17.png
+    - img: screenshots/Urband/18.png
+
+---

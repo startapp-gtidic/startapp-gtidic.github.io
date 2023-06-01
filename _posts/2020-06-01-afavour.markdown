@@ -1,0 +1,39 @@
+---
+layout: default
+modal-id: 1
+date: 2020-06-01
+img: afavour.png
+alt: image-alt
+project-date: 2on Semester 2019-2020
+name: Afavour
+category: Mobile App
+description: Necessites ajuda? Gràcies a A favour podràs trobar ràpidament algú disposat a ajudar-te amb el que necessitis. Publica un anunci, troba a un ajudant i problema solucionat.
+team:
+    - name: Oriol Figueras
+      role: Programador
+    - name: Ferran Roman
+      role: Creatiu
+    - name: Albert Pijuan
+      role: Creatiu
+    - name: Marc Sagués
+      role: Lider
+webpage: https://bookcaseroom.home.blog
+screenshots:
+    - img: screenshots/Afavour/1.png
+    - img: screenshots/Afavour/2.png
+    - img: screenshots/Afavour/3.png
+    - img: screenshots/Afavour/4.png
+    - img: screenshots/Afavour/5.png
+    - img: screenshots/Afavour/6.png
+    - img: screenshots/Afavour/7.png
+    - img: screenshots/Afavour/8.png
+    - img: screenshots/Afavour/9.png
+    - img: screenshots/Afavour/10.png
+    - img: screenshots/Afavour/11.png
+    - img: screenshots/Afavour/12.png
+    - img: screenshots/Afavour/13.png
+    - img: screenshots/Afavour/14.png
+    - img: screenshots/Afavour/15.png
+    - img: screenshots/Afavour/16.png
+
+---

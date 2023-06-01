@@ -12,19 +12,32 @@
           </p>
         </div>
         <div class="footer-col col-md-4">
-          <h3>{{ site.footer.social }}</h3>
-          <ul class="list-inline">
-            {% for network in site.social %}
-            <li>
-              <a href="{{ network.url }}" class="btn-social btn-outline"><i
-                  class="fa-brands fa-fw fa-{{ network.title }}"></i></a>
-            </li>
-            {% endfor %}
-          </ul>
+          <h3>{{ site.footer.teachers }}</h3>
+          {% for teacher in site.teachers  %}
+          <p>
+          <a style="color: white;" href="{{teacher.url}}">{{teacher.name}}</a>
+            <ul class="list-inline">
+              {% for network in teacher.social %}
+              <li>
+                <a href="{{ network.url }}" class="btn-social btn-outline"><i
+                    class="fa-brands fa-fw fa-{{ network.title }}"></i></a>
+              </li>
+              {% endfor %}
+            </ul>
+          </p>
+          <br>
+          {% endfor %}
+          
         </div>
         <div class="footer-col col-md-4">
-          <h3>{{ site.footer.credits }}</h3>
-          <p>{{ site.credits }}</p>
+          <h3>{{ site.footer.collaborators }}</h3>
+          <p>
+            {% for collaborator in site.collaborators %} 
+            <a style="color: white;" href="{{collaborator.url}}">{{collaborator.name}}</a>
+             <br>
+            {% endfor %}
+          </p>
+           
         </div>
       </div>
     </div>
