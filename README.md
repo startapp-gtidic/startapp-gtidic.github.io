@@ -1,32 +1,51 @@
-Freelancer Jekyll theme  [![Build Status](https://api.travis-ci.org/jeromelachaud/freelancer-theme.svg?branch=master)](https://travis-ci.org/jeromelachaud/freelancer-theme/) 
-=========================
+## Projecte Integrador: START-APP
+
+<img align="left" width="250" height="120" src="https://user-images.githubusercontent.com/61190134/77157672-1d79f700-6aa2-11ea-9948-3b693b81a951.png">
+
+*Instructors*: [Jordi Mateo Fornés](http:jordimateofornes.com) and [Sergio Sayago](http:sergiosayagoblog.wordpress.com)
+
+*Carried out*: [Grau en Tècniques d'Interacció Digital i de Computació](http://www.grauinteraccioicomputacio.udl.cat/ca/index.html)
+
+*University*: University of Lleida - Campus Igualada - Escola Politècnica Superior
+                                     
+                                    
+Methodology
+-----------
+
+* **Project-Based Course**: Learning by doing.
+* **Competitive Team-Based Learning**:
+  * Work in groups (4).
+  * Build an APP.
+  * Create a Start-Up.
+  * Win the final contest (*START-APP*).
+* **Coworking and Collaborative Learning**:
+  * Make an oral speech and get **feedback** from the rest of the groups.
+  * Make better solutions.
+* **Learn to learn**:
+  * Overcome difficulties.
+  * Find solutions.
+  * Don't give up.
+
+Projects (Course 2019 - 2020)
+----------------------------
+
+- [BeeNote](https://beenote0.wordpress.com/) 
+- [AFavour](https://bookcaseroom.home.blog/)
+- [TournMaster](https://tournmaster.wordpress.com/)
+- [Urband](https://urband239989224.wordpress.com/)
+- [Easy-Tutor](https://mightysoftware.wordpress.com/)
+
+Projects (Course 2020 - 2021)
+----------------------------
+
+- [Invisere](http://invisere.tech/)
+- [Agamers](https://agamers825980105.wordpress.com/)
+- [AnoiaShopping](https://anoiashop.wordpress.com/)
+
+
+
+
+# Credits
 
 Jekyll theme based on [Freelancer bootstrap theme ](http://startbootstrap.com/template-overviews/freelancer/)
 
-## How to use
- - Place a image in `/img/portfolio/`
- - Replace `your-email@domain.com` in `_config.yml` with your email address. Refer to [formspree](http://formspree.io/) for more information.
- - Create posts to display your projects. Use the follow as an example:
-```txt
----
-layout: default
-modal-id: 1
-date: 2020-01-18
-img: cabin.png
-alt: image-alt
-project-date: January 2020
-client: The Client
-category: Web Development
-description: The description of the project
-
----
-```
-
-## Demo
-View this jekyll theme in action [here](https://jeromelachaud.com/freelancer-theme)
-
-## Screenshot
-![screenshot](https://raw.githubusercontent.com/jeromelachaud/freelancer-theme/master/screenshot.png)
-
----------
-For more details, read the [documentation](http://jekyllrb.com/)
